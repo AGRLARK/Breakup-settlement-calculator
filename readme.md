@@ -42,7 +42,7 @@ Each factor has different multipliers that create a randomized but realistic set
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/breakup-settlement-calculator.git
+git clone git@github.com:AGRLARK/Breakup-settlement-calculator.git
 
 # Navigate to project directory
 cd breakup-settlement-calculator
